@@ -1,0 +1,16 @@
+Name: Ronan Kelly
+Student #: 17325601
+
+Parts Completed: Q1
+
+Parts Attempted:
+Q2 - implemented adjacent,
+Q3- implemented bishop class partly, and successdully got a Piece superclass for
+ Bishop and rook
+ Q5 - made the classs Queen
+
+Parts Uncompleted:
+Q1: There is an offset of 1 for an unknown reason when putting pieces on the board.
+
+Q2. Did not implement each_legal_move
+
